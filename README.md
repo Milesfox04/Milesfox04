@@ -1,9 +1,9 @@
 # Milesfox04
- <h2 align="left">🦊 Hola, soy Jacob, desarrollador backend especializado en 🐍 Python y su ecosistema de desarrollo web.<br>Me dedico a construir APIs robustas y escalables con ⚡ Django y 🔗 Django REST Framework, asegurando un backend eficiente y seguro.<br>Además, disfruto trabajar con herramientas como 🐳 Docker y ⚙️ GitHub Actions para automatizar despliegues y optimizar flujos de trabajo.</h2>
+<h2 align="left">🦊 Hola, soy Jacob, desarrollador backend especializado en 🐍 Python y su ecosistema de desarrollo web.<br>Me dedico a construir APIs robustas y escalables con ⚡ Django y 🔗 Django REST Framework, asegurando un backend eficiente y seguro.<br>Además, disfruto trabajar con herramientas como 🐳 Docker y ⚙️ GitHub Actions para automatizar despliegues y optimizar flujos de trabajo.</h2>
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fmilesprower%2Fcomments%2F10mf2si%2Ftails_laptop_art_by_manekipenguin%2F&psig=AOvVaw3pfsYzgQ-c6SA7hlTnno1m&ust=1740056937952000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCA2LXnz4sDFQAAAAAdAAAAABAb"  />
+<img align="right" height="150" src="https://i.redd.it/zuvj6iqa9fea1.gif"  />
 
 ###
 
