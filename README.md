@@ -7,11 +7,11 @@
 
 ###
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=milesfox04&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=milesfox04&show_icons=true&theme=compact)
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milesfox04&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milesfox04&layout=compact&theme=compact)
 
 ###
 
