@@ -7,6 +7,7 @@
 
 ###
 [![jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=milesfox04&count_private=true&show_icons=true&theme=monokai)](https://github.com/milesfox04/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milesfox04a&repo=github-readme-stats)](https://github.com/milesfox04/github-readme-stats)
 
 ###
 
