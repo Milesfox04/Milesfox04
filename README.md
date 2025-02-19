@@ -6,10 +6,15 @@
 <img align="right" height="150" src="https://i.redd.it/zuvj6iqa9fea1.gif"  />
 
 ###
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milesfox04&layout=compact&theme=radical)
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=milesfox04&show_icons=true&theme=radical)
-![GitHub Activity Snake](https://github.com/Milesfox04/Milesfox04/blob/output/github-contribution-grid-snake.svg)
-
+</div>
+  
+###
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
 ###
 <div align="left">
