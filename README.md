@@ -8,12 +8,8 @@
 ###
 [![jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=milesfox04&count_private=true&show_icons=true&theme=monokai)](https://github.com/milesfox04/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milesfox04&count_private=true&show_icons=true&theme=monokai&repo=github-readme-stats)](https://github.com/milesfox04/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milesfox04&show_icons=true&count_private=true&layout=compact&theme=monokai)](https://github.com/milesfox04/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milesfox04&show_icons=true&count_private=true&theme=monokai)](https://github.com/milesfox04/github-readme-stats)
 
-###
-<a href="https://github.com/milesfox04/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milesfox04&repo=github-readme-stats" />
-</a>
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
