@@ -7,13 +7,7 @@
 
 ###
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milesfox04&layout=compact&theme=radical)
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=milesfox04&show_icons=true&theme=radical)
-</div>
-  
-###
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
