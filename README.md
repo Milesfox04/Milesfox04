@@ -1,9 +1,12 @@
 # Milesfox04
-<h2 align="left">🦊 Hola, soy Jacob, desarrollador backend especializado en 🐍 Python y su ecosistema de desarrollo web.<br>Me dedico a construir APIs robustas y escalables con ⚡ Django y 🔗 Django REST Framework, asegurando un backend eficiente y seguro.<br>Además, disfruto trabajar con herramientas como 🐳 Docker y ⚙️ GitHub Actions para automatizar despliegues y optimizar flujos de trabajo.</h2>
+<h2 align="left">
+🦊 Hola, soy Jacob, desarrollador backend especializado en 🐍 Python y su ecosistema de desarrollo web.<br>
+Me dedico a construir APIs robustas y escalables con ⚡ Django y 🔗 Django REST Framework, asegurando un backend eficiente y seguro.<br>Además, disfruto trabajar con herramientas como 🐳 Docker y ⚙️ GitHub Actions para automatizar despliegues y optimizar flujos de trabajo.
+</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.redd.it/zuvj6iqa9fea1.gif"  />
+<img align="right" height="180" src="https://i.redd.it/zuvj6iqa9fea1.gif"  />
 
 ###
 [![jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=milesfox04&count_private=true&show_icons=true&theme=monokai)](https://github.com/milesfox04/)
