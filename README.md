@@ -6,9 +6,9 @@
 <img align="right" height="150" src="https://i.redd.it/zuvj6iqa9fea1.gif"  />
 
 ###
-<div align="center">
+
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=milesfox04&show_icons=true&theme=radical)
-</div>
+
 
 ###
 <div align="left">
