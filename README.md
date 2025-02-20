@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="180" src="https://i.redd.it/zuvj6iqa9fea1.gif"  />
+<img align="right" height="200" src="https://i.redd.it/zuvj6iqa9fea1.gif"  />
 
 ###
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milesfox04&count_private=true&show_icons=true&theme=monokai&repo=MilesGitVideo)](https://github.com/milesfox04/)
