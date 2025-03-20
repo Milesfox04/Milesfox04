@@ -1,6 +1,6 @@
 # Milesfox04
 <h2 align="left">
-🦊 Hola, soy Jacob, desarrollador backend especializado en 🐍 Python y su ecosistema de desarrollo web. Me dedico a construir APIs robustas y escalables con ⚡ Django y 🔗 Django REST Framework, asegurando un backend eficiente y seguro.<br>Además, disfruto trabajar con herramientas como 🐳 Docker y ⚙️ GitHub Actions para automatizar despliegues y optimizar flujos de trabajo.
+🦊 Hola, soy Jacob, desarrollador backend especializado en 🐍 Python y su ecosistema de desarrollo web. Me dedico a construir APIs con Django y Django REST Framework.
 </h2>
 
 ###
