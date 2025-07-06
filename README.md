@@ -5,7 +5,9 @@
 
 ###
 
-<img align="right" height="200" src="https://i.redd.it/zuvj6iqa9fea1.gif"  />
+<p align="right">
+  <img src="https://i.redd.it/zuvj6iqa9fea1.gif" height="140" />
+</p>
 
 ###
 
