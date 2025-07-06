@@ -6,7 +6,7 @@
 
 ###
 
-<p align="right">
+<p align="center">
   <img src="https://i.redd.it/zuvj6iqa9fea1.gif" height="140" />
 </p>
 
