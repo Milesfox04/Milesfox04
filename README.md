@@ -35,8 +35,8 @@
 ![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg)
 
 ---
-|![Firefox] (https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg)|
-|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40"/> |
+|:-:|:-:|:-:|
 
 ### Contacto
 
