@@ -8,13 +8,11 @@
 <img align="right" height="200" src="https://i.redd.it/zuvj6iqa9fea1.gif"  />
 
 ###
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milesfox04&count_private=true&show_icons=true&theme=monokai&repo=MilesGitVideo)](https://github.com/milesfox04/)
 [![jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=milesfox04&count_private=true&show_icons=true&theme=monokai)](https://github.com/milesfox04/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milesfox04&show_icons=true&count_private=true&theme=monokai&repo=MilesGitVideo)](https://github.com/milesfox04/)
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
