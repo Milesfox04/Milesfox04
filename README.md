@@ -18,8 +18,8 @@
 
 ---
 ### Tecnologías y herramientas
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
 ![Firefox](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg)
 ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
 ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)
