@@ -18,9 +18,7 @@
 
 ---
 ### Tecnologías y herramientas
- <img 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-height="360" />
+ <img ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) height="360" />
 ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
 ![Firefox](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg)
 ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
