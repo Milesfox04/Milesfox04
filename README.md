@@ -4,7 +4,7 @@
 🦊 Hola, soy Jacob, desarrollador backend especializado en 🐍 Python y su ecosistema de desarrollo web. Me dedico a construir APIs con Django y Django REST Framework.
 </h2>
 
-###
+---
 
 <p align="center">
   <img src="https://i.redd.it/zuvj6iqa9fea1.gif" height="360" />
