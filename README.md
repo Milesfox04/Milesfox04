@@ -35,7 +35,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" /img>
 </div>
 ---
-
 ### Contacto
 
 <p align="left">
