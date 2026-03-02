@@ -1,7 +1,7 @@
 # Milesfox04
 
 <h2 align="left">
-🦊 Hola, soy Jacob, desarrollador backend especializado en 🐍 Python y su ecosistema de desarrollo web. Me dedico a construir APIs con Django y Django REST Framework.
+🦊 Hola, soy Jacob, desarrollador backend especializado en Python y su ecosistema de desarrollo web. Me dedico a construir APIs con Django y Django REST Framework.
 </h2>
 
 ---
